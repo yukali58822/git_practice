@@ -17,8 +17,28 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+- 第一項
+- 第二項
+  - 子項
+  - 子項
 
+1. 第一項
+2. 第二項
+  1. 子項
+  2. 子項
 
+# 這是程式碼區塊
+``` 
+print('Hello,World!')
+```
 
+[Github](https://github.com/)
+[代替文字](https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg)
+> 這是一個引用
+---
+|表頭1 |表頭2 |
+| ----- | ----- |
+| 單元格1 | 單元格2 |
+| 單元格3 | 單元格4 |
 
 
